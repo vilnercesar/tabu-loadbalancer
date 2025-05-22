@@ -2,13 +2,13 @@
 
 1. ter o python instalado
 2. instalar o pip: 
-sh
-sh```
+
+```bash
 python -m pip install numpy matplotlib
 python.exe -m pip install --upgrade pip
 ```
 
 3. instalar o numpy
-sh```
+```bash
 pip install numpy matplotlib
 ```
