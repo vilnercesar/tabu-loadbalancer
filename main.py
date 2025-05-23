@@ -1,5 +1,5 @@
 
-from ts_load_balancer import ServidorVirtual, Aplicacao, LoadBalancer
+from load_balance import ServidorVirtual, Aplicacao, LoadBalancer
 
 # Função principal para executar o exemplo
 def main():
