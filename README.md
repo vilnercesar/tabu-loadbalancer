@@ -95,7 +95,7 @@ projeto/
 - O algoritmo convergiu para soluções de boa qualidade na maioria dos casos testados
 
 ### Desafios Encontrados
-- Ajuste fino dos parâmetros (tamanho da lista tabu, critérios de parada)
+- Ajuste fino dos parâmetros (tamanho da lista tabu, tempo tabu, critérios de parada)
 - Balanceamento entre intensificação e diversificação da busca
 - Tratamento de instâncias com características diferentes
 
